@@ -4,7 +4,7 @@
 
 Check npm package updates on travis ci using [ncu](https://github.com/tjunnone/npm-check-updates).
 
-If `ncu` detects npm outdated, slack send notification.
+If `ncu` detects npm outdated, send slack notifications.
 
 ## Usage
 
