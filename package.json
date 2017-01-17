@@ -11,9 +11,12 @@
   "bugs": {
     "url": "https://github.com/yyoshiki41/ncu-cron/issues"
   },
+  "scripts": {
+    "test": "ncu -e 2"
+  },
   "homepage": "https://github.com/yyoshiki41/ncu-cron#readme",
   "dependencies": {
     "npm-check-updates": "^2.8.9",
-    "react-native-device-info": "0.9.6"
+    "react-native-device-info": "0.9.7"
   }
 }
