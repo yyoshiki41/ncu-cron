@@ -1,0 +1,17 @@
+language: node_js
+
+node_js:
+  - "6.1"
+
+sudo: false
+
+install:
+  - npm install
+
+script:
+  - ncu -e 2
+
+notifications:
+  email: false
+  slack:
+    on_failure: always
