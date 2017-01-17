@@ -1,0 +1,19 @@
+{
+  "name": "ncu-cron",
+  "version": "1.0.0",
+  "description": "Notify npm package updates",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyoshiki41/ncu-cron.git"
+  },
+  "author": "Yoshiki Nakagawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyoshiki41/ncu-cron/issues"
+  },
+  "homepage": "https://github.com/yyoshiki41/ncu-cron#readme",
+  "dependencies": {
+    "npm-check-updates": "^2.8.9",
+    "react-native-device-info": "0.9.6"
+  }
+}
