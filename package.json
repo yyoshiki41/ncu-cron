@@ -17,6 +17,8 @@
   "homepage": "https://github.com/yyoshiki41/ncu-cron#readme",
   "dependencies": {
     "npm-check-updates": "^2.8.9",
-    "yarn": "0.19.1"
+    "yarn": "0.19.1",
+    "pushwoosh-react-native-plugin": "2.0.0",
+    "react-native-mixpanel": "0.0.12"
   }
 }
