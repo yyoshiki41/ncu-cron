@@ -17,6 +17,6 @@
   "homepage": "https://github.com/yyoshiki41/ncu-cron#readme",
   "dependencies": {
     "npm-check-updates": "^2.10.3",
-    "react-native-passcode-auth": "1.0.0"
+    "react-native-privacy-snapshot": "1.0.0"
   }
 }
